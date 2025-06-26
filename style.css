@@ -3,7 +3,7 @@
             padding: 0px;
         }
          .bgimage{
-            background-image: linear-gradient(rgba(0,0,0,50%), rgba(0,0,0,50%)), url(Images/background.png);
+            background-image: linear-gradient(rgba(0,0,0,50%), rgba(0,0,0,50%)), url(background.png);
             background-attachment: scroll;
             background-size: auto;
             width: 100vw;
@@ -11,7 +11,7 @@
          }
 
          .logo{
-            background-image: url(Images/netlogo.png);
+            background-image: url(netlogo.png);
             background-size: cover;
             width: 190px;
             height: 50px;
